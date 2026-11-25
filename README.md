@@ -1,7 +1,6 @@
 # Hi, I'm Razane 👋
 
-**Data Science & AI student** · CY Cergy Paris Université 🇫🇷  
-Previously at École Nationale Supérieure d'Intelligence Artificielle (ENSIA), Algiers 🇩🇿
+**Data Science & AI student** · Université de Toulouse 🇫🇷  
 
 I build end-to-end machine learning systems — from messy raw data to evaluated, production-ready models. My work spans deep learning, time series forecasting, optimisation, and recommender systems.
 
