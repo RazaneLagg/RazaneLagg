@@ -46,7 +46,7 @@ I build end-to-end machine learning systems — from messy raw data to evaluated
 
 ## 🌍 Languages
 
-🇫🇷 French — C1 (TCF) &nbsp;|&nbsp; 🇬🇧 English — C1 (IELTS) &nbsp;|&nbsp; 🇩🇿 Arabic — Native
+🇫🇷 French — C1 (TCF) &nbsp;|&nbsp; 🇬🇧 English — C1 (IELTS) 
 
 ---
 
